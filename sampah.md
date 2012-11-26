@@ -1,0 +1,45 @@
+=============
+SNEAKERS 2013
+=============
+-------------
+Teater (Salah satu Misi/Visi Program Kerja Sneakers untuk penyaluran Seni dan Kreasi) -> Eksternal
+======
+Tanggal     : 20 April 2013
+Tempat      : Sportarium UMY
+
+Himakom's Day (Perayaan Ulang Tahun Himakom) -> Internal
+=============
+Tanggal     : 18 April 2013
+Tempat      : Mipa Selatan
+-------------
+
+Penanggung Jawab
+================
+Sekretaris  :
+Bendahara   :
+
+Koordinator
+===========
+ACARA (Lutfi|Hero)
+OPERASIONAL (Fajrin|Fahmi)
+KSK (Em)
+P3K ()
+PDD (Rais)
+TRANSPORTASI (Lutfi|Malik)
+DANUS (Himawan)
+KONSUMSI (Bewe)
+KEAMANAN ()
+
+Guest Star
+==========
+
+
+CORE TEAM
+=========
+- Adam (Kuli Serabutan) --> [Operasional|Keamanan]
+- Hero (Konseptor) --> [Operasional]
+- Immanuel (Marketing) --> [Acara]
+- Himawan (Sponsorship) --> [Keamanan]
+- Raihan (Desainer) --> [PDD]
+- Em (Surat Menyurat) --> [KSK]
+
