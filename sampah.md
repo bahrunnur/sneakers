@@ -4,15 +4,15 @@ SNEAKERS 2013
 
 Teater 
 ------
-__Eksternal__
-Salah satu Misi/Visi Program Kerja Sneakers untuk penyaluran Seni dan Kreasi 
+__Eksternal__ <br>
+Salah satu Misi/Visi Program Kerja Sneakers untuk penyaluran Seni dan Kreasi <br> 
 Tanggal     : 20 April 2013 <br>
 Tempat      : Sportarium UMY
 
 Himakom's Day 
 ------
-__Internal__
-Perayaan Ulang Tahun Himakom
+__Internal__ <br>
+Perayaan Ulang Tahun Himakom <br>
 Tanggal     : 18 April 2013 <br>
 Tempat      : Mipa Selatan
 
@@ -47,7 +47,7 @@ Guest Star
 
 
 CORE TEAM
-=========
+-------
 - Adam (Kuli Serabutan) --> [Operasional|Keamanan]
 - Hero (Konseptor) --> [Operasional]
 - Immanuel (Marketing) --> [Acara]
