@@ -59,4 +59,4 @@ CORE TEAM
 - Immanuel (Marketing) --> [Acara]
 - Himawan (Sponsorship) --> [Keamanan]
 - Raihan (Desainer) --> [PDD]
-- Em (Surat Menyurat) --> [KSK]
+- Ikvi (Surat Menyurat) --> [KSK]
