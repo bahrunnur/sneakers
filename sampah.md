@@ -25,12 +25,12 @@ Bendahara   :
 
 Koordinator
 ---------
-- ACARA (Lutfi|Hero)
-- OPERASIONAL (Fajrin|Fahmi)
-- KSK (Em)
+- ACARA (Hero)
+- OPERASIONAL (Fajrin|Adam)
+- KSK (Nida)
 - P3K ()
 - PDD (Rais)
-- TRANSPORTASI (Lutfi|Malik)
+- TRANSPORTASI (Malik)
 - DANUS (Himawan)
 - KONSUMSI (Bewe)
 - KEAMANAN (Graha)
