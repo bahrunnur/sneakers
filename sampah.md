@@ -49,14 +49,16 @@ list-list guest star:
 - [The Banery](https://twitter.com/TheBanery)
 - [Soulvibe](https://twitter.com/SVSoulvibe)
 - [Abdul and the Coffe theory](https://twitter.com/abdullikecoffee)
+- [Tulus](http://www.musiktulus.com/)
+- [HiVi](https://twitter.com/sayHiVi)
 - Efek Rumah Kaca
 - KOALA
 
 CORE TEAM
 -------
 - Adam (Kuli Serabutan) --> [Operasional|Keamanan]
-- Hero (Konseptor) --> [Operasional]
+- Hero (Konseptor) --> [Acara]
 - Immanuel (Marketing) --> [Acara]
-- Himawan (Sponsorship) --> [Keamanan]
+- Himawan (Sponsorship) --> [Danus]
 - Raihan (Desainer) --> [PDD]
 - Ikvi (Surat Menyurat) --> [KSK]
