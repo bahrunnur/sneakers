@@ -31,7 +31,7 @@ Koordinator
 - P3K ()
 - PDD (Rais)
 - TRANSPORTASI (Malik)
-- DANUS (Himawan)
+- DANUS (Immanuel)
 - KONSUMSI (Bewe)
 - KEAMANAN (Graha)
 
