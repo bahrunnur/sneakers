@@ -25,13 +25,13 @@ Bendahara   :
 
 Koordinator
 ---------
-- ACARA (Lutfi|Hero)
-- OPERASIONAL (Fajrin|Fahmi)
-- KSK (Em)
-- P3K ()
+- ACARA (Hero)
+- OPERASIONAL (Adam)
+- KSK (Nida)
+- P3K (Norma)
 - PDD (Rais)
-- TRANSPORTASI (Lutfi|Malik)
-- DANUS (Himawan)
+- TRANSPORTASI (Malik)
+- DANUS (Immanuel)
 - KONSUMSI (Bewe)
 - KEAMANAN (Graha)
 
@@ -52,6 +52,17 @@ list-list guest star:
 - Efek Rumah Kaca
 - KOALA
 
+Sponsorship
+-------
+list-list sasaran sponsorship:  
+  
+- Pocari Sweat
+- Sharp
+- Exxon (Graha)
+- Garuda
+- 
+
+
 CORE TEAM
 -------
 - Adam (Kuli Serabutan) --> [Operasional|Keamanan]
@@ -59,4 +70,17 @@ CORE TEAM
 - Immanuel (Marketing) --> [Acara]
 - Himawan (Sponsorship) --> [Keamanan]
 - Raihan (Desainer) --> [PDD]
-- Em (Surat Menyurat) --> [KSK]
+- Ikvi (Surat Menyurat) --> [Sekretaris]
+
+
+Anggota
+-------
+__Acara__
+- Lutfi
+  
+__Operasional__
+- Fajrin
+- Fahmi
+  
+__KSK__
+- Manda
