@@ -62,7 +62,6 @@ list-list sasaran sponsorship:
 - Sharp
 - Exxon (Graha)
 - Garuda
-- 
 
 
 CORE TEAM
