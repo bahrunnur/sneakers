@@ -20,8 +20,8 @@ Tempat      : Mipa Selatan
 
 Penanggung Jawab
 ---------
-Sekretaris  :  
-Bendahara   :  
+Sekretaris  : Ikvi  
+Bendahara   : Lia  
 
 Koordinator
 ---------
@@ -62,6 +62,11 @@ list-list sasaran sponsorship:
 - Sharp
 - Exxon (Graha)
 - Garuda
+- Yamaha yang motor
+- Yamaha yang musik, coba dulu
+- Coklat Monggo
+- Fruit Tea
+- Telkom (Semarang)
 
 
 CORE TEAM
@@ -78,6 +83,9 @@ Anggota
 -------
 __Acara__
 - Lutfi
+- Arum Dz
+- Nikita
+- Em
   
 __Operasional__
 - Fajrin
@@ -85,3 +93,26 @@ __Operasional__
   
 __KSK__
 - Manda
+- Fatina
+
+__PDD__
+- Raihan
+- Bagus
+
+__Konsumsi__
+- Fina
+
+__P3K__
+- norma aja kayaknya cukup
+
+__Keamanan__
+- Ghani
+- Ucil
+
+__Transportasi__
+- Juki
+- Embi
+
+__Danus__
+- Himawan (_Sponsorship_)
+- Semua Panitia (s.d bulan maret 2013)
